@@ -1,0 +1,6 @@
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\bin\Debug\empSalaryApp.exe.config
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\bin\Debug\empSalaryApp.exe
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\bin\Debug\empSalaryApp.pdb
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\obj\Debug\empSalaryApp.csprojResolveAssemblyReference.cache
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\obj\Debug\empSalaryApp.exe
+c:\users\simi\documents\visual studio 2013\Projects\empSalaryApp\empSalaryApp\obj\Debug\empSalaryApp.pdb
